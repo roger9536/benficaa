@@ -1,0 +1,23 @@
+
+
+
+#EXTM3U
+#EXTINF:-1,Sport TV PT
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8/S!d2EJVFZPU19MaXZlEgJU.v...wEWBJ8_/Level(5242880)
+#EXTINF:-1,Sport TV PT
+https://tvembed.net/spt1/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=a702ba167b4e96a027fbe934c1c7e94424e9eaed-6bfc32a6ed73a8abef2f69b1b0c1d378-1704991834-1704984634
+#EXTINF:-1,Sport TV PT	
+https://tvembed.net/spt1-alt/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=087a99b920d87ad7ef37fc723b37a69af03f1b3f-bf5dfa6a328a563478fd60f291e9cad4-1704991934-1704984734
+#EXTINF:-1,Sport TV 2 PT	
+https://tvembed.net/spt2/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=bfc9c65fd2a0b2f424d66163283922bdd2d41251-dd2f388d967bebf7c54d508464921aae-1704992035-1704984835
+#EXTINF:-1,Benfica TV 
+https://tvembed.net/btv/tracks-v1a1/mono.m3u8?remote=77.54.27.119&token=6374fac439fa83faf7d2f29112a675773a2ec3ef-3ac92d41480d5a02176bd23837510c35-1704992181-1704984981
+#EXTINF:-1,Eleven Sports - TV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+#EXTINF:-1,Eleven Sports - TV
+https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
+#EXTINF:-1,Benfica TV 
+https://double1.totototorina.com:999/hls/btv1pt.m3u8?md5=t8OhOr4769JdTkcAdMxFTg&expires=1704993161
+
+
+
